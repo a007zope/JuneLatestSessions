@@ -14,7 +14,7 @@ public class GetTextForTextField {
 	public static void main(String[] args) {
 		
 		
-	WebDriverManager.chromedriver().setup();
+	//WebDriverManager.chromedriver().setup();
 		
 		ChromeOptions co = new ChromeOptions();
 		
